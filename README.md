@@ -1,6 +1,6 @@
 # Portafolio de trabajos
 
-## link página portaolio
+## link página portafolio
 > Link directo a portafolio
 <a href="https://gonzalogd.github.io/Portafolio_Gonzalo_Demetrio/" target="_blank">portafolio de trabajos</a>
 
