@@ -12,4 +12,4 @@
 <a href="https://github.com/gonzalogd/ultimo_cuppon" target="_blank">proyecto cuppon</a>
 
 > Tercer link 
-<a href="https://github.com/gonzalogd/Proyecto_posicionamiento" target="_blank">proyecto cuppon</a>
+<a href="https://github.com/gonzalogd/fdsw-github" target="_blank">proyecto curriculum</a>
